@@ -33,7 +33,7 @@ import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 import wanderer_social from "./wanderer_social.png";
 import nextjs from "./tech/nextjs.svg";
-import java from "./tech/java.svg";
+import java from "./tech/Java.svg";
 import sql from "./tech/MySQL.svg";
 import dart from "./tech/dart.svg";
 import supabase from "./tech/supabase.svg";
