@@ -35,12 +35,12 @@ import wanderer_social from "./wanderer_social.png";
 import nextjs from "./tech/nextjs.svg";
 import java from "./tech/Java.svg";
 import sql from "./tech/MySQL.svg";
-import dart from "./tech/dart.svg";
+import dart from "./tech/Dart.svg";
 import supabase from "./tech/supabase.svg";
-import firebase from "./tech/firebase.svg";
+import firebase from "./tech/Firebase.svg";
 import materialui from "./tech/Material UI.svg";
-import python from "./tech/python.svg";
-import fastapi from "./tech/fastapi.svg";
+import python from "./tech/Python.svg";
+import fastapi from "./tech/FastAPI.svg";
 import comdata from "./company/Comdata.svg";
 
 
